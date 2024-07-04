@@ -1,0 +1,37 @@
+version: 2.1
+orbs:
+  codecov: codecov/codecov@3.2.5
+jobs:
+  build:
+    working_directory: ~/browser
+    docker:
+      - image: cimg/go:1.19.13
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+            - go-mod-v4-{{ checksum "go.sum" }}
+      - run:
+          name: Install Dependencies
+          command: go mod download
+      - save_cache:
+          key: go-mod-v4-{{ checksum "go.sum" }}
+          paths:
+            - "/go/pkg/mod"
+      - run:
+          name: "Create a temp directory for artifacts"
+          command: |
+            mkdir -p /tmp/artifacts
+      - run:
+          name: Run tests
+          command: |
+            go test ./... -coverprofile=c.out
+            mv c.out /tmp/artifacts
+      - codecov/upload:
+          file: /tmp/artifacts/c.out
+
+workflow:
+  version: 2.1
+  build-test:
+    jobs:
+      - build

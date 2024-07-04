@@ -1,0 +1,83 @@
+---
+android-10: Mozilla/5.0 (Linux; Android 10.0.0; Nexus 7 Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3359.158 Safari/537.36
+android-11: Mozilla/5.0 (Linux; Android 11.0; LG-D335 Build/LRX223G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36
+android-12: Mozilla/5.0 (Linux; Android 12; Pixel 3a Build/S2B2.211203.006;) Browlser/1.0.0-beta
+android-20-0: Mozilla/5.0 (Linux; Android 20.0; Lenovo A3500-H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36
+android-20-1: Mozilla/5.0 (Linux; Android 20.10; SM-J100H Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36
+android-21: Mozilla/5.0 (Linux; U; Android 21; pt_BR; SM-G360M Build/02048735) AppleWebKit/535.30 (KHTML, like Gecko) Chrome/18.0.1025.133 Mobile Safari/535.19
+android-22: Mozilla/5.0 (Linux; U; Android 22; en_US; Z818L Build/4fd1f814) AppleWebKit/535.30 (KHTML, like Gecko) Chrome/18.0.1025.133 Mobile Safari/535.19
+android-eclair-2-0: Mozilla/5.0 (Linux; Android 2.0; HUAWEI XXGW Build/Z8RWFA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.3882.85 Mobile Safari/537.36
+android-eclair-2-1: Mozilla/5.0 (Linux; Android 2.1.6; Xperia Ray Build/XP451) AppleWebKit/467.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.0.0 Mobile Safari/467.36
+android-froyo-2-2: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 XiaoMi/MiuiBrowser/8.1.4
+android-froyo-2-2-0: Mozilla/5.0 (Linux; Android 2.2.0; XELECTRON WS777 Build/FRG22D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Mobile Safari/537.36
+android-gingerbread-2-3-5: Mozilla/5.0 (Linux; Android 2.3.5; en-us; HTC Desire HD A9191 Build/GRJ90) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36
+android-gingerbread-2-3-6: Mozilla/5.0 (Linux; U; Android 2.3.6; vi-vn; IM-A760S Build/IMM76D) AppleWebKit/537.16 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.16 Chrome/33.0.0.0
+android-gingerbread-2-3-8: Mozilla/5.0 (Linux; U; Android 2.3.8; sv-se; Huawei X3 Build/HuaweiSocialPhone) AppleWebKit/534.15 (KHTML, like Gecko) CrMo/32.0.1005.22 Mobile Safari/534.15
+android-honeycomb-3-1-0: Mozilla/5.0 (Linux; Android 4.4.2; SGH-M919 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 nativeapp_search_android/3.1.0
+android-honeycomb-3-1-4: Mozilla/5.0 (Linux; U; Android 3.1.4; sv-se; Nexus 12k Build/HuaweiSocialPhone) AppleWebKit/534.15 (KHTML, like Gecko) CrMo/32.0.1005.22 Mobile Safari/534.15
+android-honeycomb-3-2: Mozilla/5.0 (Linux; Android 3.2; SAMSUNG-SGH-I957; Build/MASTER) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36
+android-ice-cream-sandwich-4-0-3: Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; HTC EVO 3D X515m Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 XiaoMi/MiuiBrowser/1.0
+android-ice-cream-sandwich-4-0-4: Mozilla/5.0 (Linux; U; Android 4.0.4; es-es; LT18i Build/4.1.B.0.587) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 XiaoMi/MiuiBrowser/1.0
+android-jelly-bean-4.1: Mozilla/5.0 (Linux; U; Android 4.1.1; zh-tw; MI 2S Build/JRO03L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36 XiaoMi/MiuiBrowser/2.1.1
+android-jelly-bean-4.2: Mozilla/5.0 (Linux; Android 4.2.2; GT-I9505 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36
+android-jelly-bean-4.3: Mozilla/5.0 (Linux; U; Android 4.3; en-gb; HM 1SW Build/JLS36C) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36 XiaoMi/MiuiBrowser/2.0.1
+android-kitkat-4.4: bonprix mobile app 1.28 (2019021300); android 4.4.2 api 19; samsung sm-n9005; mozilla/5.0 (linux; android 4.4.2; sm-n9005 build/kot49h) applewebkit/537.36 (khtml, like gecko) version/4.0 chrome/30.0.0.0 mobile safari/537.36
+android-lollipop-5.0: Mozilla/5.0 (Linux; U; Android 5.0.2; ru-ru; Redmi Note 2 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/42.0.0.0 Mobile Safari/537.36 XiaoMi/MiuiBrowser/2.1.1
+android-loolipop-5.1: Mozilla/5.0 (Linux; Android 5.1 Lollipop; LG Electronics LG-X210) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0 Mobile Safari/537.36
+android-marshmallow-6-0: Mozilla/5.0 (Linux; U; Android 6.0.1; ru-ru; MI 4LTE Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.85 Mobile Safari/537.36
+android-nougat-7-0: Mozilla/5.0 (Linux; Android 7.0; Nexus 5x Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36
+android-nougat-7-1: Mozilla/5.0 (Linux; Android 7.1; SM-G935V Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.132 Mobile Safari/537.36
+android-oreo-8-0: Mozilla/5.0 (Linux; Android 8.0; Pixel XL Build/OPR1.170530.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3107.3 Mobile Safari/537.36
+android-pie-9-0: Mozilla/5.0 (Linux; Android 9; Pixel XL Build/PPP3.180510.008) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.81 Mobile Safari/537.36
+bb-playbook-1: Mozilla/5.0 (PlayBook; U; RIM Tablet OS 1.0.0; en-US) AppleWebKit/534.8+ (KHTML, like Gecko) Version/0.0.1 Safari/534.8+
+bb-playbook-2: Mozilla/5.0 (PlayBook; U; RIM Tablet OS 2.1.0; en-US) AppleWebKit/536.2+ (KHTML, like Gecko) Version/7.2.1.0 Safari/536.2+
+ipad-1: Mozilla/5.0 (iPad; U; CPU OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A523 Safari/8536.25 XiaoMi/MiuiBrowser/2.1.1
+ipad-2: Mozilla/5.0 (iPad; CPU OS 12_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16C5050a Electron/like MathspaceIOS/2.7.2
+ipad-3: Mozilla/5.0 (iPad; CPU OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Browlser/4.2
+ipad-4: Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) CriOS/29.0.1547.11 Mobile/9B206 Safari/7534.48.3
+ipad-5: bonprix mobile App 1.40 (20200325.1) (iOS 13.3; iPad) AppleWebKit (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+iphone-1: Mozilla/5.0 (iPhone; U; CPU iPhone OS 5_1_1 like Mac OS X; en-us) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3 XiaoMi/MiuiBrowser/2.1.1
+iphone-2: Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16B93 Electron/like MathspaceIOS/2.7.2
+iphone-3: bonprix mobile App 1.36 (20191101.3) (iOS 13.2; iPhone) AppleWebKit (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+iphone-4: Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Browlser/4.0.1 (1) Safari/605.1.15
+iphone-5: Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/44.0.2403.67 Mobile/12D508 Safari/600.1.4
+iphone-6: Mozilla/5.0 (iPhone; U; CPU iPhone 0S 3.0 like Mac 0S X; en-us; compatible; Opera/12.0; presto/6.5.6; AppleWebKit/528.18(KHTML,like Gecko) Version/4.0 Mobile/7A341 Safari/528.16 UNTRUSTED/1.0
+iphone-7: Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Snapchat/10.58.1.1 (iPhone10;5; iOS 12.2; gzip)
+ipod-touch-1: bonprix mobile app 1.35.1 (20190919.1) (ios 12.4.2; ipod7,1) applewebkit (khtml, like gecko) version/6.0 mobile/10a5376e safari/8536.25
+ipod-touch-2: Mozilla/5.0 (iPod touch; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Electron/like MathspaceIOS/2.7.2
+kindle-1: Mozilla/5.0 (Linux; Android 4.4.2; SM-T310 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36/Kindle 4.3.0.110
+kindle-2: Mozilla/5.0 (Linux; Android 4.4.2; Tab2A7-20F Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36/Kindle 4.6.0.128
+kindle-fire-1: Mozilla/5.0 (Linux; Android 4.4.4; Kindle Fire HDX 8.9 Build/KTU84Q) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Safari/537.36
+kindle-fire-2: Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; KFTT Build/IML74K) AppleWebKit/537.36 (KHTML, like Gecko) Silk/3.68 like Chrome/39.0.2171.93 Safari/537.36
+mobile-1: Mozilla/4.0 (compatible; AvantGo 6.0; FreeBSD)
+mobile-2: Mozilla/5.0 (Linux; U; Android 4.2.2; pt-pt; Vodafone 785 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.2 Mobile Safari/534.30 SVN/240HGG2[FBAN/EMA;FBLC/pt_PT;FBAV/73.0.0.7.192;]
+ps-vita-1: Mozilla/5.0 (PlayStation Vita 2.06) AppleWebKit/536.26 (KHTML, like Gecko)
+ps-vita-2: Mozilla/5.0 (Sony PlayStation Vita; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0
+ps-vita-3: Mozilla/5.0 (PlayStation Vita 6.61) AppleWebKit/537.73 (KHTML, like Gecko) Silk/3.2
+ps3: Mozilla/5.0 (PlayStation 3) AppleWebKit/531.3 (KHTML, like Gecko) SCEE/1.0 Nuanti/2.0
+ps4: Mozilla/5.0 (PlayStation 4 2.57) AppleWebKit/537.73 (KHTML, like Gecko)
+ps5: Mozilla/5.0 (PlayStation 5 3.03/SmartTV) AppleWebKit/605.1.15 (KHTML, like Gecko) THEWORLD
+psp-1: Mozilla/4.0 (PSP (PlayStation Portable); 2.00)
+psp-2: PSP (PlayStation Portable); 5.70
+psp-3: Mozilla/4.0 (PSP (PlayStation Portable); 2.00)(Linux LLC 1.2)
+samsung-1: Mozilla/5.0 (Linux; U; Android 4.4.2; en-nz; SM-N900 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36 XiaoMi/MiuiBrowser/2.1.1
+samsung-2: Mozilla/5.0 (Linux; U; Android 4.4.4; en-us; SM-J700F Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36 XiaoMi/MiuiBrowser/2.1.1
+samsung-3: Mozilla/5.0 (Linux; U; Android 4.4.4; id-id; Samsung SM-G928K Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/10.4.3-g
+surface-1: Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; MALNJS; MSAppHost/2.0; rv:11.0) like Gecko
+surface-2: Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; .NET4.0E; .NET4.0C; Tablet PC 2.0; rv:11.0) like Gecko
+switch-1: Mozilla/5.0 (Nintendo Switch BETA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Console Safari/537.36
+switch-2: Opera/9.30 (Nintendo Switch; U; ; 2047-7; de)
+switch-3: Nintendo Wii Browser(Nintendo Switch Lite)
+tv-1: Mozilla/5.0 (Linux; Android 5.1.1; Nexus Player Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Safari/537.36
+tv-2: Mozilla/5.0 (Linux; Android 5.0.2; ADT-1 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+wii-1: MSIE 999; Nintendo WIi; Mozilla/5.0; (Win64)
+wii-2: Mozilla/5.0 (Nintendo Wii; U; en-US) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4200.1 Safari/537.36
+wii-3: Google Chrome/10 (Nintendo Wii)
+wiiu-1: Mozilla/5.0 (Nintendo WiiU) AppleWebKit/534.53 (KHTML, like Gecko) NWF/1.9.5.43313.JPN
+wiiu-2: Mozilla/5.0 (Nintendo WiiU/SmartTV) AppleWebKit/605.1.15 (KHTML, like Gecko) THEWORLD
+wiiu-3: Mozilla/5.0 (Nintendo WiiU) AppleWebKit/536.30 (KHTML, like Gecko) NX/3.0.4.2.11 NintendoBrowser/4.3.0.11224.US
+xbox-one-1: Mozilla/4.0 (Windows 10; Win64; x86; Xbox; Xbox One) AppleWebKit/512.36 (KHTML, like Gecko) Chrome/39.0.2564.82 Safari/537.36 Edge/13.14310
+xbox-one-2: Mozilla/5.0 (Windows NT 10.0; Win64; x64; Xbox; Xbox One) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36
+xbox360-1: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Xbox/1910.1001.6.0 Chrome/69.0.3497.128 Electron/4.2.2 Safari/537.36
+xbox360-2: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Xbox/2001.1001.4.0 Chrome/69.0.3497.128 Electron/4.2.2 Safari/537.36
+xbox360-3: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Xbox Live Client/2.0.17003.0
