@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/dineshgowda24/browser/bots"
+	"github.com/zhang2092/browser/bots"
 	"gopkg.in/yaml.v2"
 )
 
@@ -20,7 +20,7 @@ type BotMatcher interface {
 	Matcher
 }
 
-var genericBotName = "Generic Bot"
+// var genericBotName = "Generic Bot"
 
 // Bot is a struct that contains information about the user agent's bot
 type Bot struct {

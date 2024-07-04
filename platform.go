@@ -4,8 +4,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/dineshgowda24/browser/platforms"
-	"github.com/dineshgowda24/browser/utils"
+	"github.com/zhang2092/browser/platforms"
+	"github.com/zhang2092/browser/utils"
 )
 
 // PlatformMatcher is an interface for user agent platform matchers.
@@ -128,6 +128,15 @@ func (p *Platform) IsChromeOS() bool {
 func (p *Platform) IsChromeOSVersionCompatible(version string) bool {
 	return p.IsChromeOS() &&
 		utils.VersionGTE(p.getMatcher().Version(), version)
+}
+
+// IsMacOS returns true if the user agent string matches macOS.
+func (p *Platform) IsMacOS() bool {
+	if _, ok := p.getMatcher().(*platforms.Mac); ok {
+		return true
+	}
+
+	return false
 }
 
 // IsIOS returns true if the user agent string matches iOS.

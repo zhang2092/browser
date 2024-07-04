@@ -183,6 +183,17 @@ func TestPlatformIsChromeOSVersionCompatible(t *testing.T) {
 	})
 }
 
+func TestPlatformIsMacOS(t *testing.T) {
+	Convey("Given a user agent string", t, func() {
+		Convey("When the platform is MacOS", func() {
+			p, _ := NewPlatform("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36")
+			Convey("It returns true", func() {
+				So(p.IsMacOS(), ShouldBeTrue)
+			})
+		})
+	})
+}
+
 func TestPlatformIsIOS(t *testing.T) {
 	Convey("Given a user agent string", t, func() {
 		Convey("When the platform is iOS", func() {
